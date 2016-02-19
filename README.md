@@ -62,6 +62,14 @@ Risk Mitigations:
 
 Methodology: We plan to use the Agile Methodology.
 
+User Stories:
+As an outdoor enthusiast I want to be able to keep track of a location so that I can find my way back to camp.
+As a weather researcher I want a cheap, replaceable way to collect data so that I can collect data more often.
+As a soccer mom I want to be able to quickly find my keys so that I can pick up the team on time and in a good mood.
+
+
+
+
 Project Tracking:
 
     Software = Pivotal
