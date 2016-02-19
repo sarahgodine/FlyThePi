@@ -41,15 +41,18 @@ Risk Mitigations:
 -----------------------------------------Requirements------------------------------------------------------------------------------------
 
 *** (ID)  User Requirements                   :     Agile Sizing(1-5)***
+
     (0)   User Interface                      :     2.0       
     (1)   Platform for UI                     :     1.0
 
 *** (ID)  Functional Requirements             :     Agile Sizing(1-5)***
+
     (2)   Locating Raspberry Pi               :     4.5
     (3)   Human readable Information          :     2.0
     (4)   Relaying Location                   :     2.0
     
 *** (ID)  Non-Functional Requirements         :     Agile Sizing(1-5)***
+
     (5)   Weather Balloon Acquire & Launch    :     2.0
     (6)   Retrieving Height of Balloon        :     2.0
     (7)   Taking & Uploading Pictures         :     3.0
