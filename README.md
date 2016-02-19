@@ -25,16 +25,16 @@ Description: Our immediate sprint is to use geo-location paired with a Raspberry
 Motivation: Our project began with a collective passion for an education in what is possible when employing a Raspberry Pi. This passion was met with the solution to a fundamental problem, losing things sucks! If there were an easy way to attach lightweight technology to the things you cared about to ensure you never lost them again one would find a convenient solution to a common problem. As for our lofty goal, we wanted to press the boundaries of our geo-location by sending our Pi where no Pi has gone before. To that end we also that we could get some pretty awesome photography from way up there!
 
 Risks:
-  1) Some members are unfamiliar with the architecture of Raspberry Pi's
-  2) Before this project group members were unfamiliar to one another; lack of certainty of group cohesiveness
-  3) Being that all of our schedules are individually based, meeting times have already proven to be difficult
-  4) Depending on weather conditions, launch protocols, and hardware expenses our lofty goal may prove to be out of reach
+- 1) Some members are unfamiliar with the architecture of Raspberry Pi's
+- 2) Before this project group members were unfamiliar to one another; lack of certainty of group cohesiveness
+- 3) Being that all of our schedules are individually based, meeting times have already proven to be difficult
+- 4) Depending on weather conditions, launch protocols, and hardware expenses our lofty goal may prove to be out of reach
 
 Risk Mitigations:
-  1) Team members unfamiliar with the intricacies of Raspberry Pi's have already begun referring to example projects and open sourced          documentation to build a working level of understanding. 
-  2) A general understanding of respect and responsbility should prove to mitigate this risk as well as a motiviation to succeed.
-  3) Team members will have to be fluid and compromise on certain other priorities (definitely sleep) to enable our vision. 
-  4) Early preparation and research should prove to surface a viable launch day and the necessary legal procedures to launch a weather        balloon. If hardware expenses are out of reach we will look for outside funding. 
+  - 1) Team members unfamiliar with the intricacies of Raspberry Pi's have already begun referring to example projects and open sourced          documentation to build a working level of understanding. 
+  - 2) A general understanding of respect and responsbility should prove to mitigate this risk as well as a motiviation to succeed.
+  - 3) Team members will have to be fluid and compromise on certain other priorities (definitely sleep) to enable our vision. 
+  - 4) Early preparation and research should prove to surface a viable launch day and the necessary legal procedures to launch a weather        balloon. If hardware expenses are out of reach we will look for outside funding. 
   
   ******We're creating goals in a modular way so that we ensure a workable product regardless of unforseen difficulties*******
   
