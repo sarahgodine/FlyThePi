@@ -1,8 +1,42 @@
-p {
-	font-family:cursive;
-	color:#40e0d0;
+body {
+        background-image:url(https://i.ytimg.com/vi/KGLB9-LdpYM/maxresdefault.jpg)
 }
 
-body {
-	background-image:url(https://i.ytimg.com/vi/KGLB9-LdpYM/maxresdefault.jpg)
+h1 {
+        color: #ffffff;
+}
+
+#one {
+        height: 162px;
+        width: 300px;
+        border: 2px solid white;
+        background-color: #000000;
+        margin-top: 150px;
+}
+
+#two {
+        height: 50px;
+        width: 100px;
+        border: 2px solid white;
+        background-color: #000000;
+        margin-top: -166px;
+        margin-left: 306px;
+}
+
+#three {
+        height: 50px;
+        width: 100px;
+        border: 2px solid white;
+        background-color: #000000;
+        margin-top: 2px;
+        margin-left: 306px;
+}
+
+#four {
+        height: 50px;
+        width: 100px;
+        border: 2px solid white;
+        background-color: #000000;
+        margin-top: 2px;
+        margin-left: 306px;
 }
