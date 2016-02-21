@@ -1,25 +1,27 @@
 body {
-        background-image:url(https://i.ytimg.com/vi/KGLB9-LdpYM/maxresdefault.jpg)
+	background-image:url(https://i.ytimg.com/vi/KGLB9-LdpYM/maxresdefault.jpg)
 }
 
 h1 {
-        color: #ffffff;
+	color: #ffffff;
 }
 
 #one {
-        height: 486px;
-        width: 900px;
-        border: 2px solid white;
-        background-color: #000000;
-        margin-top: 150px;
+	height: 486px;
+	width: 900px;
+	border: 2px solid white;
+	background-color: #000000;
+	margin-top: 150px;
+	position: fixed;
 }
 
 #two {
-        height: 150px;
+	height: 150px;
         width: 300px;
         border: 2px solid white;
         background-color: #000000;
-        margin-top: -490px;
+	margin-left: 918px;
+	position: absolute;
 }
 
 #three {
@@ -27,8 +29,9 @@ h1 {
         width: 300px;
         border: 2px solid white;
         background-color: #000000;
-        margin-top: 14px;
+        margin-top: 168px;
         margin-left: 918px;
+        position: absolute;
 }
 
 #four {
@@ -36,6 +39,97 @@ h1 {
         width: 300px;
         border: 2px solid white;
         background-color: #000000;
-        margin-top: 14px;
+        margin-top: 336px;
         margin-left: 918px;
+        position: absolute;
+}
+
+#five {
+        height: 150px;
+        width: 300px;
+        border: 2px solid white;
+        background-color: #000000;
+        margin-top: 504px;
+        margin-left: 918px;
+        position: absolute;
+}
+
+#six {
+        height: 150px;
+        width: 300px;
+        border: 2px solid white;
+        background-color: #000000;
+        margin-top: 672px;
+        margin-left: 918px;
+        position: absolute;
+}
+
+#seven {
+        height: 150px;
+        width: 300px;
+        border: 2px solid white;
+        background-color: #000000;
+        margin-top: 840px;
+        margin-left: 918px;
+        position: absolute;
+}
+
+#eight {
+        height: 150px;
+        width: 300px;
+        border: 2px solid white;
+        background-color: #000000;
+        margin-top: 1008px;
+        margin-left: 918px;
+        position: absolute;
+}
+
+#nine {
+        height: 150px;
+        width: 300px;
+        border: 2px solid white;
+        background-color: #000000;
+        margin-top: 1176px;
+        margin-left: 918px;
+        position: absolute;
+}
+
+#ten {
+        height: 150px;
+        width: 300px;
+        border: 2px solid white;
+        background-color: #000000;
+        margin-top: 1344px;
+        margin-left: 918px;
+        position: absolute;
+}
+
+#eleven {
+        height: 150px;
+        width: 300px;
+        border: 2px solid white;
+        background-color: #000000;
+        margin-top: 1512px;
+        margin-left: 918px;
+        position: absolute;
+}
+
+#twelve {
+        height: 150px;
+        width: 300px;
+        border: 2px solid white;
+        background-color: #000000;
+        margin-top: 1680px;
+        margin-left: 918px;
+        position: absolute;
+}
+
+#thirteen {
+        height: 150px;
+        width: 300px;
+        border: 2px solid white;
+        background-color: #000000;
+        margin-top: 1848px;
+        margin-left: 918px;
+        position: absolute;
 }
