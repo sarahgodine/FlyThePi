@@ -11,8 +11,10 @@ while True:
 			#To see everything, uncomment the line below
 			#print report
 		if report['class'] = 'TPV':
-			if hasattr(report, 'time'):
-				print report.time
+			#if hasattr(report, 'time'):
+				#print report.time
+			if hassattr(report, 'speed'):
+				print report.speed * gps.MPS_TO_KPH
 	except KeyError:
 		pass
 	except KeyboardInterrupt:
