@@ -70,7 +70,9 @@ User Stories:
 
 Project Tracking:
 
-    Software = Pivotal
-    https://www.pivotaltracker.com/n/projects/1539463
+Github Issue Tracker and Milestones
+
+- ~~Software = Pivotal~~
+- ~~https://www.pivotaltracker.com/n/projects/1539463~~
 
 
