@@ -2,15 +2,13 @@
 Raspberry pi geolocated weather balloon
 
 
-Team Members        :   Github Names {
-
-Danny Brill         :     dbrill
-Dan Bye             :     CaptainAtlas
-Brian Hawthorne     :     Bhawth
-Sarah Godine        :     sarahgodine
-Lucy Wilkinson      :     lucywilkinson
-
-}
+| Team Members      |   Github Names |
+| --- | --- |
+| Danny Brill         |     dbrill |
+| Dan Bye             |     CaptainAtlas |
+| Brian Hawthorne     |     Bhawth | 
+| Sarah Godine        |     sarahgodine | 
+| Lucy Wilkinson      |     lucywilkinson |
 
 Description: Our immediate sprint is to use geo-location paired with a RaspberryPi to create a device that can be located from anywhere. The goal of this immediate sprint is to create a device that would allow you locate items precious to you by simply pinging your Raspberry Pi. Our lofty goal, depending on how well we deal with the geo-location part of the process, is to also implement a measure of height above or below sea level along with a location. Finally, we'd install a modular camera to our Raspberry Pi and send it up into the Stratosphere (or higher!) attached to a weather balloon. Once, ascended our Pi will upload it's location as well as pictures to our website. 
 
