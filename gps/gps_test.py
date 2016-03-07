@@ -10,7 +10,7 @@ while True:
 			#Narrow fields with classes
 			#To see everything, uncomment the line below
 			#print report
-		if report['class'] = 'TPV':
+		if report['class'] == 'TPV':
 			#if hasattr(report, 'time'):
 				#print report.time
 			if hassattr(report, 'speed'):
